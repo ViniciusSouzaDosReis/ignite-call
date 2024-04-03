@@ -1,4 +1,4 @@
-import { styled, Heading, Text } from '@ignite-ui/react'
+import { styled, Heading, Text } from '@poc-design-system-ui/react'
 
 export const Container = styled('div', {
   maxWidth: 'calc(100vw - (100vw - 1160px) / 2)',

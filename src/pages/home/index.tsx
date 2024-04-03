@@ -1,4 +1,4 @@
-import { Heading, Text } from '@ignite-ui/react'
+import { Heading, Text } from '@poc-design-system-ui/react'
 import Image from 'next/image'
 import { Container, Hero, Preview } from './styles'
 
