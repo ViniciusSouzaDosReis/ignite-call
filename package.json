@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
-    "@poc-design-system-ui/react": "^1.0.1",
+    "@poc-design-system-ui/react": "^1.0.2",
     "next": "13.5.6",
     "phosphor-react": "^1.4.1",
     "react": "^18",
