@@ -50,7 +50,10 @@ export default function Register() {
     } catch (error) {
       if (isAxiosError(error) && error?.response?.data?.message) {
         alert(error.response.data.message)
+        return
       }
+
+      console.error(error)
     }
   }
 
